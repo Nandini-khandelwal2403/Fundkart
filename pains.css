@@ -1,0 +1,62 @@
+#top {
+ font-size: 65px;
+ color: rgb(98, 95, 95);
+}
+
+.nameorg {
+ font-size: 30px;
+ color: rgb(131, 129, 129);
+}
+
+.para {
+ font-size: 18px;
+ width: 1250px;
+ margin-left: 40px;
+}
+
+.link {
+ margin-left: 30px;
+ font-size: 20px;
+ text-decoration: none;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-style: italic;
+ font-weight: bold;
+ /* cursor: pointer; */
+}
+
+a:hover {
+ color: palevioletred;
+}
+
+.high {
+ width: 800px;
+}
+
+.all {
+ margin-left: 6%;
+ margin-top: 5%;
+ margin-bottom: 5%;
+
+}
+
+#top {
+ margin: 2%;
+ margin-top: 4%;
+ margin-left: 3%;
+}
+
+.image {
+ float: right;
+ display: flex;
+ margin-top: -1100px;
+ margin-left: 200px;
+ opacity: 0.2;
+ width: 600px;
+ height: 700px;
+}
+
+@media(max-width: 584px) {
+ .high {
+  max-width: 100%;
+ }
+}
