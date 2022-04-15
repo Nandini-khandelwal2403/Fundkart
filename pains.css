@@ -47,7 +47,7 @@ a:hover {
 
 .image {
  float: right;
- display: flex;
+ display: flex ;
  margin-top: -1100px;
  margin-left: 200px;
  opacity: 0.2;
